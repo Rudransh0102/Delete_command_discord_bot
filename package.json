@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "discord.js": "^14.8.0",
+    "rest": "^2.0.0",
+    "route": "^0.2.5",
+    "routes": "^2.1.0"
+  },
+  "name": "command-delete",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "node ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
